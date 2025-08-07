@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
     email: 'ashwinrajan1999@gmail.com',
-    phone: '+971567684685',
+    phone: '+971 543631267',
     whatsapp: '918428385032',
   };
